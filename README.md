@@ -10,7 +10,7 @@ tool in a VM if you're unsure about what the target executable does.
 Note: You need to use a 32-bit Python interpreter to dump 32-bit executables.
 
 ## Features
-
+ 
 * Handles Themida/Winlicense 2.x and 3.x
 * Handles 32-bit and 64-bit PEs (EXEs and DLLs)
 * Handles 32-bit and 64-bit .NET assemblies (EXEs only)
